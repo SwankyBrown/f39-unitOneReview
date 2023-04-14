@@ -214,3 +214,4 @@ if(colors [i] === "red"){
     - How to push git to github
 */
 
+console.log('hello');
